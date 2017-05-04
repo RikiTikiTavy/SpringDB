@@ -1,0 +1,14 @@
+my/vaadin/app/impls/CustomerDAOImpl$CustomerRowMapper.class
+my/vaadin/app/dao/interfaces/CustomerDAO.class
+my/vaadin/app/AddCustomerWindow.class
+my/vaadin/app/impls/CompanyDAOImpl$CompanyRowMapper.class
+my/vaadin/app/MyUI.class
+my/vaadin/app/MyUI$MyUIServlet.class
+my/vaadin/app/CompanyLayout.class
+my/vaadin/app/dao/objects/Customer.class
+my/vaadin/app/dao/objects/Company.class
+my/vaadin/app/impls/CustomerDAOImpl.class
+my/vaadin/app/impls/CompanyDAOImpl$1.class
+my/vaadin/app/dao/interfaces/CompanyDAO.class
+my/vaadin/app/impls/CustomerDAOImpl$1.class
+my/vaadin/app/impls/CompanyDAOImpl.class

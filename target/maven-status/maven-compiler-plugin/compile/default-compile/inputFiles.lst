@@ -1,0 +1,9 @@
+/home/roman/workspace/SpringDB_33/src/main/java/my/vaadin/app/dao/interfaces/CompanyDAO.java
+/home/roman/workspace/SpringDB_33/src/main/java/my/vaadin/app/dao/objects/Customer.java
+/home/roman/workspace/SpringDB_33/src/main/java/my/vaadin/app/impls/CustomerDAOImpl.java
+/home/roman/workspace/SpringDB_33/src/main/java/my/vaadin/app/dao/interfaces/CustomerDAO.java
+/home/roman/workspace/SpringDB_33/src/main/java/my/vaadin/app/impls/CompanyDAOImpl.java
+/home/roman/workspace/SpringDB_33/src/main/java/my/vaadin/app/dao/objects/Company.java
+/home/roman/workspace/SpringDB_33/src/main/java/my/vaadin/app/MyUI.java
+/home/roman/workspace/SpringDB_33/src/main/java/my/vaadin/app/AddCustomerWindow.java
+/home/roman/workspace/SpringDB_33/src/main/java/my/vaadin/app/CompanyLayout.java

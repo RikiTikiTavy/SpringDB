@@ -1,0 +1,37 @@
+
+mysql -u root -p
+
+CREATE TABLE Customers (id INT NOT NULL PRIMARY KEY AUTO_INCREMENT, First_Name VARCHAR(50), Position VARCHAR(50), Email VARCHAR(80));
+
+INSERT INTO Customers (First_Name, Position, Email) 
+VALUES 
+("Pavel", "manager", "fia@gmail.com"),
+("Vadim", "Programmer", "ose@gmail.com"),
+("Indus", "programmer", "qivi@yandex.ru"),
+("Oleg", "manager", "sin@mail.ru"),
+("Alexandr", "cleaner", "clean@mail.ru"),
+("Vasilisa", "cleaner", " vasi@gmail.ru"),
+("Yurii", "traider", "trade@mail.ru"),
+("Oleg", "traider", "trade@mail.ru"),
+("Vadim", "traider", "trader@gmail.ru"),
+("Rimma", "dantist", "trader@yandex.ru"),
+("Vlad", "dantist", "gfre@gmail.com");
+
+	
+CREATE TABLE Companies (CompanyId INT NOT NULL PRIMARY KEY AUTO_INCREMENT, CompanyName VARCHAR(50), CustomerId INT);
+
+
+INSERT INTO Companies (CompanyName, CustomerId) 
+VALUES 
+("Sibur", 1),
+("Yamaha", 3),
+("Yamaha", 4),
+("Sibur", 3),
+("Tenkoff", 2),
+("Tenkoff", 1),
+("Sibur", 3),
+("Yamaha", 2),
+("Yamaha", 4),
+("Tenkoff", 1),
+("Tenkoff", 4);
+			
